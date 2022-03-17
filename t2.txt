@@ -1,1 +1,22 @@
+a 97 98
+A 65 66
+---- ---
+32 32
 
+
+
+
+user character input
+
+
+
+
+char r= s.next().charAt(0)
+========================
+String name="rajan";
+
+
+
+System.out.println(name.charAt(0)); //r
+System.out.println(name.charAt(1)); //a
+System.out.println(name.charAt(2)); //j
