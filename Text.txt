@@ -1,4 +1,6 @@
+
 Q wap to design class for inventory having fields like pname, price and quantity.
+
 
 
 -design two method input() that ask data from user
@@ -7,7 +9,9 @@ Q wap to design class for inventory having fields like pname, price and quantity
 if price > 3000 then print discount is 10 % else 9% .
 
 
+
 -In main create object of class and call above method.
+
 
 
 ============================
