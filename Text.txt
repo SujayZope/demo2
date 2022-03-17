@@ -1,0 +1,19 @@
+Q wap to design class for inventory having fields like pname, price and quantity.
+
+
+
+-design two method input() that ask data from user
+--design another method show() that display data
+-design another method calculate() discount
+if price > 3000 then print discount is 10 % else 9% .
+
+
+
+-In main create object of class and call above method.
+
+
+
+============================
+add static variable banner = "welcome to IMS"
+create static method that display static variable value
+Call static method in main.
